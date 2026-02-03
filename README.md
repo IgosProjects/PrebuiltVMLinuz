@@ -1,2 +1,3 @@
 # PrebuiltVMLinuz
-Builds of linux taken from Ubuntu and other linux distros
+
+This repo hosts the "vmlinuz" files for use for making linux distros without recompiling linux
